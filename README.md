@@ -16,6 +16,9 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
+![image](https://user-images.githubusercontent.com/62354759/84973142-5b60d880-b0ee-11ea-8fca-802dd92e31e5.png)
+![image](https://user-images.githubusercontent.com/62354759/84973151-66b40400-b0ee-11ea-9d2e-fcb0ee339843.png)
+![image](https://user-images.githubusercontent.com/62354759/84973162-6f0c3f00-b0ee-11ea-80fe-822b2b8e5ee3.png)
 
 ## Acceptance Criteria
 
