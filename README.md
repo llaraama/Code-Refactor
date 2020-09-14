@@ -41,7 +41,7 @@ Clone this repo to your local machine using https://github.com/llaraama/Code-Ref
 ![image](https://user-images.githubusercontent.com/62354759/84973151-66b40400-b0ee-11ea-9d2e-fcb0ee339843.png)
 ![image](https://user-images.githubusercontent.com/62354759/84973274-b5fa3480-b0ee-11ea-8a87-85ed91e4ffa7.png)
 
-## Licens
+## License
 MIT License
 
 ## Contributing 
